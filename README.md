@@ -1,6 +1,6 @@
-### Code for the following publication: "*Connectivity in two endangered violets in the Canary Islands: how topography, temperature and water availability shape gene flow and diversity in Viola cheiranthifolia and Viola guaxarensis*"
+### Code for the following publication: "*Population density drives genetic connectivity in the Canary Islands endemics Viola cheiranthifolia and Viola guaxarensis*"
 
-This GitHub page provides a step-by-step guide to the analyses presented in the publication, "*Connectivity in two endangered violets in the Canary Islands: how topography, temperature, and water availability shape gene flow and diversity in Viola cheiranthifolia and Viola guaxarensis.*" This study is part of the GENCLIMA project, which aims to evaluate functional connectivity among high-mountain and laurel forest species in the Canary Islands, with a focus on preserving genetic diversity and mitigating the impacts of climate change.
+This GitHub repository provides a step-by-step guide to the analyses presented in the publication Population density drives genetic connectivity in the Canary Islands endemics Viola cheiranthifolia and Viola guaxarensis. This study is part of the GENCLIMA project, which aims to evaluate functional connectivity among high-mountain and laurel forest species in the Canary Islands, with a focus on preserving genetic diversity and mitigating the impacts of climate change. Here, we specifically investigate the genetic connectivity of *Viola cheiranthifolia* and *Viola guaxarensis*.
 
 The project's specific objectives are to (1) identify correlations between genetic diversity and environmental variables, (2) assess the functional connectivity of V. cheiranthifolia and V. guaxarensis at El Teide Summit, Tenerife, Spain, (3) determine which landscape variables influence gene flow in each species, and (4) evaluate changes in connectivity under projected climate change scenarios.
 
@@ -8,11 +8,11 @@ The project's specific objectives are to (1) identify correlations between genet
 
 
 ### 00-Sampling
-The sampling scheme used here is individual-based, differing from the population-level analyses commonly applied in gravity models for metapopulations. This approach enhances our ability to detect complex interactions of environmental variables on gene flow patterns and allows for a more precise identification of landscape factors independently influencing gene flow. 
+The sampling scheme used here is individual-based, which enhances our ability to detect complex interactions of environmental variables on gene flow patterns and allows for a more precise identification of landscape factors independently influencing gene flow. 
 
 
 ### 01-Genetic diversity
-This script evaluates the relationship between genetic diversity and environmental variables for Teide Violets. It processes spatial and genetic data, extracts environmental variables from raster files, and calculates population-level means. Linear models are applied to test the influence of each variable on genetic diversity, identifying significant predictors. Collinearity between variables is assessed, and results are visualized with annotated plots to support ecological interpretations.
+This script evaluates the relationship between genetic diversity and environmental variables for Teide Violets. It processes spatial and genetic data, extracts environmental variables from raster files, and calculates population-level means. Linear models are applied to test the relationship of each variable with genetic diversity. Collinearity between variables is assessed, and results are visualized with annotated plots.
 
 
 
