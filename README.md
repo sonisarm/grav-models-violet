@@ -12,18 +12,14 @@ The sampling scheme used here is individual-based, which enhances our ability to
 
 
 ### 01-Genetic diversity
-This script evaluates the relationship between genetic diversity and environmental variables for Teide Violets. It processes spatial and genetic data, extracts environmental variables from raster files, and calculates population-level means. Linear models are applied to test the relationship of each variable with genetic diversity. Collinearity between variables is assessed, and results are visualized with annotated plots.
-
-
+This script evaluates the relationship between genetic diversity and environmental variables for Teide Violets. It processes spatial and genetic data and performs functions such as extracting environmental variables from raster layers and calculating population-level genetic distance means. Linear models are applied to test the relationship of each variable with genetic diversity. Collinearity between variables is assessed, and results are visualized.
 
 ### 02-Gravity models
-This section provides a comprehensive script for building and evaluating gravity models to study genetic flow between individuals. The code integrates spatial and genetic data, extracts relevant environmental variables, assesses collinearity, and constructs gravity models to assess functional connectivity and identify key landscape factors influencing genetic connectivity. Additionally, it includes tools for comparing and refining models.
-
+This section provides a comprehensive script for building and evaluating gravity models to study gene flow between individuals. The code integrates spatial and genetic data, extracts relevant environmental variables, assesses collinearity, and constructs gravity models to assess functional connectivity and identify key landscape factors influencing genetic connectivity. Additionally, it includes tools for evaluating how well models fit the data and for comparing their performance.
 
 
 ### 03-Climate modelling
-This script evaluates the impact of climate change on connectivity and gene flow across future scenarios. It integrates climate data, gene flow values, and site coordinates, processing them to derive environmental statistics for nodes and edges while incorporating topographic variables. Gravity models are applied to analyze connectivity, with comparisons between current and future scenarios to assess changes and inform potential conservation strategies.
-
+This script evaluates how climate change alters connectivity and gene flow by comparing gravity models fitted for current and future scenarios. It integrates climate data, gene flow values, site coordinates, and topographic variables to derive environmental statistics for both nodes and edges. Connectivity under present conditions is then contrasted with connectivity under future climate projections, allowing us to quantify changes and identify implications for conservation planning.
 
 
 
