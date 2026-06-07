@@ -1,6 +1,8 @@
 ### Code for the following publication: "*Population density influences genetic connectivity in the Canary Islands endemics Viola cheiranthifolia and Viola guaxarensis*"
 
-This GitHub repository provides a step-by-step guide to the analyses presented in the publication "*Population density influences genetic connectivity in the Canary Islands endemics Viola cheiranthifolia and Viola guaxarensis*". This study is part of the GENCLIMA project, which aims to evaluate functional connectivity among high-mountain and laurel forest species in the Canary Islands, with a focus on preserving genetic diversity and mitigating the impacts of climate change. Here, we specifically investigate the genetic connectivity of *Viola cheiranthifolia* and *Viola guaxarensis*.
+This GitHub repository provides a step-by-step guide to the analyses presented in the publication "*Population density influences genetic connectivity in the Canary Islands endemics Viola cheiranthifolia and Viola guaxarensis*".  The study corresponds to the second chapter of Sonia Sarmiento’s PhD thesis.
+
+Specifically, this study is part of the GENCLIMA project, which aims to evaluate functional connectivity among high-mountain and laurel forest species in the Canary Islands, with a focus on preserving genetic diversity and mitigating the impacts of climate change. Here, we specifically investigate the genetic connectivity of *Viola cheiranthifolia* and *Viola guaxarensis*.
 
 The project's specific objectives are to (1) identify correlations between genetic diversity and environmental variables, (2) assess the functional connectivity, (3) determine which landscape variables influence gene flow in each species, and (4) evaluate changes in connectivity under projected climate change scenarios.
 
