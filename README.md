@@ -1,6 +1,6 @@
-### Code for the following publication: "*Population density drives genetic connectivity in the Canary Islands endemics Viola cheiranthifolia and Viola guaxarensis*"
+### Code for the following publication: "*Population density influences genetic connectivity in the Canary Islands endemics Viola cheiranthifolia and Viola guaxarensis*"
 
-This GitHub repository provides a step-by-step guide to the analyses presented in the publication "*Population density drives genetic connectivity in the Canary Islands endemics Viola cheiranthifolia and Viola guaxarensis*". This study is part of the GENCLIMA project, which aims to evaluate functional connectivity among high-mountain and laurel forest species in the Canary Islands, with a focus on preserving genetic diversity and mitigating the impacts of climate change. Here, we specifically investigate the genetic connectivity of *Viola cheiranthifolia* and *Viola guaxarensis*.
+This GitHub repository provides a step-by-step guide to the analyses presented in the publication "*Population density influences genetic connectivity in the Canary Islands endemics Viola cheiranthifolia and Viola guaxarensis*". This study is part of the GENCLIMA project, which aims to evaluate functional connectivity among high-mountain and laurel forest species in the Canary Islands, with a focus on preserving genetic diversity and mitigating the impacts of climate change. Here, we specifically investigate the genetic connectivity of *Viola cheiranthifolia* and *Viola guaxarensis*.
 
 The project's specific objectives are to (1) identify correlations between genetic diversity and environmental variables, (2) assess the functional connectivity, (3) determine which landscape variables influence gene flow in each species, and (4) evaluate changes in connectivity under projected climate change scenarios.
 
@@ -22,7 +22,10 @@ This section provides a comprehensive script for building and evaluating gravity
 This script evaluates how climate change alters connectivity and gene flow by comparing gravity models fitted for current and future scenarios. It integrates climate data, gene flow values, site coordinates, and topographic variables to derive environmental statistics for both nodes and edges. Connectivity under present conditions is then contrasted with connectivity under future climate projections, allowing us to quantify changes and identify implications for conservation planning.
 
 
+### Citation
+If you use the code, data-processing workflow, or materials provided in this repository, please cite the associated publication:
 
+Sarmiento Cabello S, Murphy M, Sosa PA, Fernández de Castro AG, Martín Esquivel JL, Rodríguez-Rodríguez P. Population density influences genetic connectivity in the Canary Islands endemics Viola cheiranthifolia and Viola guaxarensis. Ann Bot. 2025 Dec 9. doi: 10.1093/aob/mcaf317. PMID: 41362993.
 
 
 
